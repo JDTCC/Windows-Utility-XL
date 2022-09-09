@@ -1,8 +1,8 @@
-# Windows Utility
+# Windows Utility XL
 
 Script/Utility/Application to debloat Windows 10, to upgrade or install Windows applications and to configure 
 
-## How to install and use the Windows Utility?
+## How to install and use the Windows Utility XL?
 
 First Method:
 Download the .zip file on the main page of the GitHub and extract the .zip file to your desired location
